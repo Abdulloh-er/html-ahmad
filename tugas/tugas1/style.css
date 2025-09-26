@@ -1,0 +1,22 @@
+.container {
+    max-width: 200px;
+    margin: auto;
+    padding: 0 20px;
+    color: rgb(4, 4, 182);
+    font-family: arial, sans-serif;
+}
+.header {
+  width: 150px ;
+}
+
+.foto-pp {
+  width: 200px;
+  border-radius: 150px;
+}
+.box {
+  background-color: white;
+  border: 1px solid #b0b3b9;
+  border-radius: 12px;
+  margin: 100px;
+  margin-top: -70px;
+}
